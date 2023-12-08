@@ -1,1 +1,3 @@
-# Machine_Learning_for_Finance
+# Machine Learning in Finance
+
+Machine Learning in Finance Group Project 
